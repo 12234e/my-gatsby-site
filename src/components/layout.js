@@ -46,6 +46,12 @@ const Layout = ({ pageTitle, children }) => {
         <h1 className={heading}>{pageTitle}</h1>
         {children}
       </main>
+      <footer>
+        <p>Copyright © 2023</p>
+        <p>AlaminKhan</p>
+        <p>mdalaminkhan19957@gmail.com</p>
+        <p>+9660509918244</p>
+      </footer>
     </div>
   )
 }
