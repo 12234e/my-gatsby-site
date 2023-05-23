@@ -1,0 +1,27 @@
+.blog-title {
+    color: blue;
+    font-size: 25px;
+    padding-left: 1rem;
+   }
+   .blog-posted {
+    color: gray;
+    font-size: 14px;
+    padding-left: 1rem;
+   }
+   
+   .blog-excerpt {
+    color: black;
+    font-size: 16px;
+    padding-left: 1rem;
+   }
+   .blog-link {
+    color: red;
+    text-decoration: darkgreen;
+   }
+   
+   .blog-link:hover {
+    color: orange;
+    text-decoration: underline;
+   }
+
+   

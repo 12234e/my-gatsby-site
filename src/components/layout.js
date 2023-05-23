@@ -66,12 +66,7 @@ const Layout = ({ pageTitle, children }) => {
     <div className={styles.container}>
       <header className={styles.siteTitle}>
         <p>
-          <span>A</span>
-          <span>l</span>
-          <span>a</span>
-          <span>m</span>
-          <span>i</span>
-          <span>n</span>
+          News 24
         </p>
       </header>
       <canvas id="wave"></canvas>
